@@ -7,4 +7,5 @@ Hi, This is a react app which aligns the transcations of virtual digital assets 
 4) Volume of asset
 5) Total amount = Price * Volume
 6) transaction type (Buy or Sell)
-+Website can be accessible at https://profit-lose.web.app
+
+Website can be accessible at https://profit-lose.web.app
