@@ -9,3 +9,5 @@ Hi, This is a react app which aligns the transcations of virtual digital assets 
 6) transaction type (Buy or Sell)
 
 Website can be accessible at https://profit-lose.web.app
+
+The dataset for testing the app can be accessible here https://docs.google.com/spreadsheets/d/1wD29ef4Uie9ucNSeTK_nl9fd1Qd0m2X-/edit?usp=sharing&ouid=118084263774992778596&rtpof=true&sd=true
